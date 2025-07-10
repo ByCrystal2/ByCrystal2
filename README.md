@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bycrystal2" alt="bycrystal2" /></a> </p>
 
-- 🔭 I’m currently working on [Museum of Excesses](https://ahmetburak04ab.wixsite.com/ahmet-burak/portfolio-collections/my-portfolio/regal-legacy)
+- 🔭 I’m currently working on [Regal Legacy](https://ahmetburak04ab.wixsite.com/ahmet-burak/portfolio-collections/my-portfolio/regal-legacy)
 
 - 🌱 I’m currently learning **BTKAkademi Firebase Learning With Google**
 
